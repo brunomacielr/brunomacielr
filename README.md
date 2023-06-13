@@ -10,7 +10,7 @@ Contact me if you have same interesting or some questions!
 ## 🛠️ Skills 
 - **Languages**:&nbsp; SQL, Python
 - **Dataviz**:&nbsp; PowerBI, Looker, Metabase
-- **Cloud**:&nbsp; Amazon Web Services (AWS)
+- **Cloud**:&nbsp; Amazon Web Services (AWS) and Microsoft Azure (studying both)
 
 ## 🐾 Projects 
 - 
