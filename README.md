@@ -20,8 +20,7 @@ Contact me if you have same interesting or some questions!
 
 ## 📜 Certifications 
 - 
-- 
-- 
+
 
 More information in my [LinkedIn](https://www.linkedin.com/in/bruno-ribeiro-0a83a315a/) 🚀
 
