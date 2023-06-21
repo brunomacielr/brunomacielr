@@ -16,7 +16,7 @@ Contact me if you have same interesting or some questions!
 - [Analysis of Actual vs. Budget Cost Center for Departments in an E-commerce (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiYTVkZmQyMzItNDI2YS00MGNlLTk1OWUtZGFkMjU4YTE0ZWYzIiwidCI6Ijc3YjdkYTEzLTdiNTgtNGRkMi05MTI4LWEyNzhhMjc4MWRhMCJ9)
 - [Analysis and categorization of customers for a retailer (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiODkwMDU4ZGEtYTRhYi00MTE3LWE4MzktYTk0OGJhZDQ5ZDRiIiwidCI6Ijc3YjdkYTEzLTdiNTgtNGRkMi05MTI4LWEyNzhhMjc4MWRhMCJ9)
 - [Salary Study on Data Science Professions Worldwide (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZDYwYjJhNWEtOWVmOC00MThmLTlhYmMtYzU1ZmJkODg0MzIyIiwidCI6Ijc3YjdkYTEzLTdiNTgtNGRkMi05MTI4LWEyNzhhMjc4MWRhMCJ9)
-- [Business Analysis of a Proptech (Looker Studio)](https://lookerstudio.google.com/reporting/8c8084c4-de29-4d9b-aeaf-e582c2ab9f23/page/QHAID)
+- [Business Analysis of a Proptech Company(Looker Studio)](https://lookerstudio.google.com/reporting/8c8084c4-de29-4d9b-aeaf-e582c2ab9f23/page/QHAID)
 
 ## 📜 Certifications 
 - 
